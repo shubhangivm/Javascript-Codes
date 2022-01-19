@@ -1,0 +1,37 @@
+[
+    {
+        "name": "shubhangi mhetre",
+        "profile": {
+            "hobbies": "coding",
+            "gender": "female"
+        }
+    },
+    {
+        "name": "Priyanka sharma",
+        "profile": {
+            "hobbies": "coding",
+            "gender": "female"
+        }
+    },
+    {
+        "name": "Pinki sharma",
+        "profile": {
+            "hobbies": "coding",
+            "gender": "female"
+        }
+    },
+    {
+        "name": "Rinki sharma",
+        "profile": {
+            "hobbies": "coding",
+            "gender": "female}"
+        }
+    },
+    {
+        "name": "Yogita mhetre",
+        "profile": {
+            "a": "f",
+            "b": "g"
+        }
+    }
+]
